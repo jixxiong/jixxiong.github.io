@@ -1,4 +1,4 @@
-This is Jixiang Xiong's home page, you can view it through [](https://jixxiong.github.io) or [](https://xiongjx.cn)
+This is Jixiang Xiong's home page, you can view it through [jixxiong.github.io](https://jixxiong.github.io) or [xiongjx.cn](https://xiongjx.cn)
 
 <!-- <a href="https://jekyll-themes.com">
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
