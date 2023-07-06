@@ -1,0 +1,171 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Jixiang Xiong
+    tagline: Undergraduate Student # Full Stack Developer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: xiongjx751@qq.com
+    phone: +86 189 5843 0926
+    timezone: China Standard Time
+    citizenship:
+    website: xiongjx.cn #do not add http://
+    linkedin: # alandoe
+    xing: # alandoe
+    github: jixxiong
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: 
+
+    # languages:
+    #   title: Languages
+    #   info:
+    #     - idiom: English
+    #       level: Native
+
+    interests:
+      title: Interests
+      info:
+        - item: Video Games
+          link:
+
+        - item: Pop Music
+          link:
+
+
+# career:
+#     title: Career Profile
+#     summary: |
+#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#       adipiscing elit. You can [download this free resume/CV template here]().
+#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#       Donec quam felis, ultricies nec, pellentesque eu.
+#       Second paragraph if required.
+education:
+    title: Education
+    info:
+      - degree: B.S. Computer Science and Technology
+        university: Central China Normal University
+        time: 2020 - present
+        # details: "Rank: 2/128"
+experiences:
+    title: Experiences
+    info:
+      - role: Undergraduate Intern
+        time: July 2023 - Present
+        company: Big Data Analysis Group, Beihang University
+        details: 
+      - role: Software Engineer Intern
+        time: May 2023 - Present
+        company: SelectDB
+        details: 
+
+# certifications:
+#       title: Certifications
+#       list:
+        # - name: CV Builder
+        #   start: 2020
+        #   end: 2021
+        #   organization: Microsoft
+        #   credentialid: 111-222
+        #   credentialurl: www.google.com
+        #   credentialname: Google
+        #   details: |
+        
+# projects:
+#     title: Projects
+#     # intro: # >
+#       # You can list your side projects in this
+#       # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Apache Doris
+#         # link: ""
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      # - title: DevStudio
+      #   link: "#"
+      #   tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      # - title: Tempo
+      #   link: "#"
+      #   tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      # - title: Atom
+      #   link: "#"
+      #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      # - title: Delta
+      #   link: "#"
+      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+oss:
+    title: OSS Contributions
+    # intro: >
+    #   You can list your open source software contributions in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Apache Doris
+        link: "https://github.com/apache/doris"
+        tagline: "An easy-to-use, high performance and unified analytics database."
+
+      # - title: Atom
+      #   link: "#"
+      #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      # - title: Delta
+      #   link: "#"
+      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# publications:
+#     title: Publications
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
+    # papers:
+      # - title: The Art of Computer Programming
+      #   link: "#"
+      #   authors: Donald E. Knuth
+      #   conference: Addison-Wesley, 1968
+
+      # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      #   link: "#"
+      #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+      #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      # - title: A syntax directed compiler for Algol 60
+      #   link: "#"
+      #   authors: Edgar T. Irons
+      #   conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Algorithms
+        level: 98%
+
+      - name: C++ Programing
+        level: 95%
+
+      # - name: HTML5 & CSS & JS
+      #   level: 90%
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
