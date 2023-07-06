@@ -42,7 +42,7 @@ sidebar:
         - item: Video Games
           link:
 
-        - item: Pop Music
+        - item: Musics
           link:
 
 
@@ -73,7 +73,15 @@ experiences:
         time: May 2023 - Present
         company: SelectDB
         details: 
-
+honors:
+    title: Honors
+    info: 
+      - prize: Gold Medal of ICPC Shenyang Reginal Contest
+        time: Nov. 2022 
+      - prize: Gold Medal of ICPC Jinan Reginal Contest
+        time: Nov. 2022 
+      - prize: Silver Medal of ICPC EC-Final Contest
+        time: Apr. 2023
 # certifications:
 #       title: Certifications
 #       list:
